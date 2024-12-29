@@ -1,4 +1,4 @@
-# Calculator App
+# CalculatorGUI-tkinter
 
 ![Calculator App Screenshot](calculatorGUI.png)
 
@@ -21,11 +21,11 @@ To run the calculator app on your local machine, follow these steps:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/yourusername/calculatorGUI-tkinter.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd calculator-app
+cd calculatorGUI-tkinter
 ```
 3. Run the Python script:
 ```bash
